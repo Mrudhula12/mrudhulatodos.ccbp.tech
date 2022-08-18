@@ -6,4 +6,4 @@ Developed persistent todo application with CRUD operations to track list of task
 
 Technologies used: HTML, CSS, JS, Bootstrap
 
-mrudhulatodos.ccbp.tech
+website: mrudhulatodos.ccbp.tech
